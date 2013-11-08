@@ -1,0 +1,51 @@
+
+    header {height:70px;}
+    header ul li {float:right;
+        padding-left:30px;
+        margin-top:25px;
+        font-family:Calibri,Arial;
+        font-size:20px;
+        list-style:none;}
+    header a {text-decoration:none}
+    h1.NAME{
+    		color:black;
+            float:left;
+            font-family:Calibri,Arial;
+            font-size:36px; 
+    	    } 
+
+    body 	  { 
+                background:;
+    			width:1024px;
+    			margin:0 auto;
+    			border:1px solid white;
+    			font-size:12px;
+    			font-family:Arial,Sans serif;
+    			font-weight:bold;  
+    			text-decoration:none;
+    			line-height:14px;
+    		  }
+    section   {
+                overflow:hidden;
+                clear:both;
+
+                }
+    #content {
+              color:Black;
+              float: left; 
+              width:50%;">
+              }
+
+    #sidebar {
+              color:Black;
+              float:right; 
+              width:45%;">
+              }
+   
+
+    .links {
+    	margin:0 auto;
+        width:250px ;
+    	}
+    .links a{padding:10px;}
+    
