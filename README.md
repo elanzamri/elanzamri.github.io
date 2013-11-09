@@ -1,2 +1,2 @@
-elan-zamri.github.io
+elanzamri.github.io
 ===================
